@@ -10,6 +10,7 @@ import Admission from './components/Admission';
 import Footer from './components/Footer';
 import ErrorBoundary from './components/ErrorBoundary';
 
+
 function App() {
   return (
     <ErrorBoundary>
